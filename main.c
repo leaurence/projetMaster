@@ -1,5 +1,4 @@
 #include <c8051f020.h>
-#include "Config_PCA.h"
 #include "Config_Global.h"
 #include "Config_GPIO.h"
 #include "Config_SPI.h"
